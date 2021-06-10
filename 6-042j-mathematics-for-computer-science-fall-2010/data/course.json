@@ -1,0 +1,90 @@
+{
+  "course_id": "6-042j-mathematics-for-computer-science-fall-2010",
+  "course_title": "Mathematics for Computer Science",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/42ba5c4fb2e9df43aa8b2bc0566b459f_6-042jf10.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/7d99be9526c6fbf3d31ade21871b2ee7_6-042jf10-th.jpg",
+  "course_image_alternate_text": "Four dice representing the course number 6.042.",
+  "course_image_caption_text": "<p>6.042 course logo. (Image by Will Drevo. Used with permission.)</p>",
+  "publishdate": "2011-06-23T12:46:03-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Tom Leighton",
+      "url": "/search/?q=%22Prof.%20Tom%20Leighton%22"
+    },
+    {
+      "instructor": "Dr. Marten Dijk",
+      "url": "/search/?q=%22Dr.%20Marten%20Dijk%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    },
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Probability and Statistics",
+          "specialities": [],
+          "url": "/search/?t=Probability%20and%20Statistics"
+        },
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        },
+        {
+          "subtopic": "Discrete Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Discrete%20Mathematics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "6.042J",
+    "18.062J"
+  ],
+  "term": "Fall 2010",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[6.042J MATHEMATICS FOR COMPUTER SCIENCE](/courses/6-042j-mathematics-for-computer-science-spring-2015) |  SPRING 2015"
+  ],
+  "open_learning_library_versions": []
+}

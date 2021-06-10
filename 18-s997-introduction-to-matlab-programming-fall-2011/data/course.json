@@ -1,0 +1,90 @@
+{
+  "course_id": "18-s997-introduction-to-matlab-programming-fall-2011",
+  "course_title": "Introduction To MATLAB Programming",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/f5e3d4a851671a690f037c1f6e91abf9_18-s997f11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/8d4974c308fcba73dd8210a64eba97fe_18-s997f11-th.jpg",
+  "course_image_alternate_text": "Colorful graphic with symmetry around a center point.",
+  "course_image_caption_text": "<p>A MATLAB&reg; plot of the Basin of Attraction for a function. (Image by Yossi Farjoun.)</p>",
+  "publishdate": "2013-01-28T16:12:18-05:00",
+  "instructors": [
+    {
+      "instructor": "Joseph Farjoun",
+      "url": "/search/?q=%22Joseph%20Farjoun%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/the-basics/what-is-programming"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/library/videos"
+    },
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/the-basics"
+    },
+    {
+      "feature": "Programming Assignments with Examples",
+      "url": "/sections/the-basics/what-is-programming"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    },
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Programming Languages",
+              "url": "/search/?t=Programming%20Languages"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        },
+        {
+          "subtopic": "Systems Engineering",
+          "specialities": [
+            {
+              "speciality": "Computational Modeling and Simulation",
+              "url": "/search/?t=Computational%20Modeling%20and%20Simulation"
+            }
+          ],
+          "url": "/search/?t=Systems%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "18.S997"
+  ],
+  "term": "Fall 2011",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[RES.18-002 INTRODUCTION TO MATLAB](/courses/res-18-002-introduction-to-matlab-spring-2008) |  SPRING 2008"
+  ],
+  "open_learning_library_versions": []
+}

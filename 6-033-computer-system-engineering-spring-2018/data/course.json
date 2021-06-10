@@ -1,0 +1,75 @@
+{
+  "course_id": "6-033-computer-system-engineering-spring-2018",
+  "course_title": "Computer System Engineering",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a79fa5e068ab51b3cf0477c51c15a9b9_6-033s18.png",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d182605840bd1b8670435fbd9843860e_6-033s18-th.jpg",
+  "course_image_alternate_text": "Diagram of information between servers. ",
+  "course_image_caption_text": "<p>Diagram of a transaction system which provides atomicity and isolation. Information is sent between the coordinator, view server, primary server, and backup server as indicated by arrows. Image by Dr. Katrina LaCurts.</p>",
+  "publishdate": "2018-10-05T09:22:14-04:00",
+  "instructors": [
+    {
+      "instructor": "Dr. Katrina LaCurts",
+      "url": "/search/?q=%22Dr.%20Katrina%20LaCurts%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/week-1"
+    },
+    {
+      "feature": "Written Assignments",
+      "url": "/sections/week-1/critique-assignment-1"
+    },
+    {
+      "feature": "Projects with Examples",
+      "url": "/sections/design-project"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Computer Design and Engineering",
+              "url": "/search/?t=Computer%20Design%20and%20Engineering"
+            },
+            {
+              "speciality": "Computer Networks",
+              "url": "/search/?t=Computer%20Networks"
+            },
+            {
+              "speciality": "Operating Systems",
+              "url": "/search/?t=Operating%20Systems"
+            },
+            {
+              "speciality": "Software Design and Engineering",
+              "url": "/search/?t=Software%20Design%20and%20Engineering"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "6.033"
+  ],
+  "term": "Spring 2018",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

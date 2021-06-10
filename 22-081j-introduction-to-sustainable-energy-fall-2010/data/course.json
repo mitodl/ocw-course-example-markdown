@@ -1,0 +1,176 @@
+{
+  "course_id": "22-081j-introduction-to-sustainable-energy-fall-2010",
+  "course_title": "Introduction to Sustainable Energy",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/22-081j-introduction-to-sustainable-energy-fall-2010/11f0284693e27324c13884323a27aa86_22-081jf10-th.jpg",
+  "course_image_alternate_text": "Earth encompassed by recycling symbol.",
+  "course_image_caption_text": "<p>Meeting energy needs in a sustainable manner is a global challenge. (Image by <a href=\"http://www.openclipart.org/detail/2213\">kuba</a> at the Open Clip Art Library.)</p>",
+  "publishdate": "2012-02-13T14:04:06-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Michael Golay",
+      "url": "/search/?q=%22Prof.%20Michael%20Golay%22"
+    },
+    {
+      "instructor": "Randall Field",
+      "url": "/search/?q=%22Randall%20Field%22"
+    },
+    {
+      "instructor": "Prof. William Green",
+      "url": "/search/?q=%22Prof.%20William%20Green%22"
+    },
+    {
+      "instructor": "Dr. John Wright",
+      "url": "/search/?q=%22Dr.%20John%20Wright%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Nuclear Science and Engineering",
+      "url": "/search/?d=Nuclear%20Science%20and%20Engineering"
+    },
+    {
+      "department": "Mechanical Engineering",
+      "url": "/search/?d=Mechanical%20Engineering"
+    },
+    {
+      "department": "Chemical Engineering",
+      "url": "/search/?d=Chemical%20Engineering"
+    },
+    {
+      "department": "Civil and Environmental Engineering",
+      "url": "/search/?d=Civil%20and%20Environmental%20Engineering"
+    },
+    {
+      "department": "Urban Studies and Planning",
+      "url": "/search/?d=Urban%20Studies%20and%20Planning"
+    },
+    {
+      "department": "Engineering Systems Division",
+      "url": "/search/?d=Engineering%20Systems%20Division"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lectures-and-readings"
+    },
+    {
+      "feature": "Written Assignments",
+      "url": "/sections/assignments-and-exams"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments-and-exams"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Energy",
+      "subtopics": [
+        {
+          "subtopic": "Combustion",
+          "specialities": [],
+          "url": "/search/?t=Combustion"
+        },
+        {
+          "subtopic": "Electricity",
+          "specialities": [],
+          "url": "/search/?t=Electricity"
+        },
+        {
+          "subtopic": "Fossil Fuels",
+          "specialities": [],
+          "url": "/search/?t=Fossil%20Fuels"
+        },
+        {
+          "subtopic": "Nuclear",
+          "specialities": [],
+          "url": "/search/?t=Nuclear"
+        },
+        {
+          "subtopic": "Renewables",
+          "specialities": [],
+          "url": "/search/?t=Renewables"
+        },
+        {
+          "subtopic": "Transportation",
+          "specialities": [],
+          "url": "/search/?t=Transportation"
+        },
+        {
+          "subtopic": "Technology",
+          "specialities": [],
+          "url": "/search/?t=Technology"
+        }
+      ],
+      "url": "/search/?t=Energy"
+    },
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Earth Science",
+          "specialities": [
+            {
+              "speciality": "Sustainability",
+              "url": "/search/?t=Sustainability"
+            }
+          ],
+          "url": "/search/?t=Earth%20Science"
+        }
+      ],
+      "url": "/search/?t=Science"
+    },
+    {
+      "topic": "Social Science",
+      "subtopics": [
+        {
+          "subtopic": "Public Administration",
+          "specialities": [
+            {
+              "speciality": "Science and Technology Policy",
+              "url": "/search/?t=Science%20and%20Technology%20Policy"
+            }
+          ],
+          "url": "/search/?t=Public%20Administration"
+        }
+      ],
+      "url": "/search/?t=Social%20Science"
+    },
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Electrical Engineering",
+          "specialities": [
+            {
+              "speciality": "Electric Power",
+              "url": "/search/?t=Electric%20Power"
+            }
+          ],
+          "url": "/search/?t=Electrical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "22.081J",
+    "2.650J",
+    "10.291J",
+    "1.818J",
+    "2.65J",
+    "10.391J",
+    "11.371J",
+    "22.811J",
+    "ESD.166J"
+  ],
+  "term": "Fall 2010",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

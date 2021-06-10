@@ -1,0 +1,75 @@
+{
+  "course_id": "6-034-artificial-intelligence-fall-2010",
+  "course_title": "Artificial Intelligence",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/61a04b682eaad729e2b494596e0e16ad_6-034f10-th.jpg",
+  "course_image_alternate_text": "Graphic of seven figures in an evolutionary arc, starting with a monkey, with a figure standing upright in the middle, ending with a person hunched over at a computer.",
+  "course_image_caption_text": "<p>Somewhere, something went wrong. (Anonymous.)</p>",
+  "publishdate": "2011-06-29T14:33:34-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Patrick Winston",
+      "url": "/search/?q=%22Prof.%20Patrick%20Winston%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Exams",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/lecture-videos"
+    },
+    {
+      "feature": "Recitation Videos",
+      "url": "/sections/mega-recitation-videos"
+    },
+    {
+      "feature": "Programming Assignments",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Artificial Intelligence",
+              "url": "/search/?t=Artificial%20Intelligence"
+            },
+            {
+              "speciality": "Algorithms and Data Structures",
+              "url": "/search/?t=Algorithms%20and%20Data%20Structures"
+            },
+            {
+              "speciality": "Theory of Computation",
+              "url": "/search/?t=Theory%20of%20Computation"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "6.034"
+  ],
+  "term": "Fall 2010",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,79 @@
+{
+  "course_id": "6-006-introduction-to-algorithms-fall-2011",
+  "course_title": "Introduction to Algorithms",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/1075c5ac06ae4c2cea8c89e9772da78a_6-006f11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/7c05c4b07ae02751be6d2c63b11f8b6e_6-006f11-th.jpg",
+  "course_image_alternate_text": "The 6.006 course logo, with a 2x2x2 Rubik's Cube in place of each zero.",
+  "course_image_caption_text": "<p>In Problem Set 6, students develop algorithms for solving the 2x2x2 Rubik's Cube.</p>",
+  "publishdate": "2013-01-14T15:18:27-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Srini Devadas",
+      "url": "/search/?q=%22Prof.%20Srini%20Devadas%22"
+    },
+    {
+      "instructor": "Prof. Erik Demaine",
+      "url": "/search/?q=%22Prof.%20Erik%20Demaine%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/lecture-videos"
+    },
+    {
+      "feature": "Recitation Videos",
+      "url": "/sections/recitation-videos"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Programming Assignments with Examples",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Algorithms and Data Structures",
+              "url": "/search/?t=Algorithms%20and%20Data%20Structures"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "6.006"
+  ],
+  "term": "Fall 2011",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

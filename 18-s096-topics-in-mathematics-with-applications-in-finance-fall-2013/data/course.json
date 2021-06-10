@@ -1,0 +1,86 @@
+{
+  "course_id": "18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013",
+  "course_title": "Topics in Mathematics with Applications in Finance",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/1e816198fe303017579d9b42077cdeed_18-s096f13-th.jpg",
+  "course_image_alternate_text": "A flow diagram of a pricing model.",
+  "course_image_caption_text": "<p>Pricing Model Diagram. (Image courtesy of Ivan Masyukov.)</p>",
+  "publishdate": "2015-01-05T16:47:35-05:00",
+  "instructors": [
+    {
+      "instructor": "Dr. Vasily Strela",
+      "url": "/search/?q=%22Dr.%20Vasily%20Strela%22"
+    },
+    {
+      "instructor": "Dr. Peter Kempthorne",
+      "url": "/search/?q=%22Dr.%20Peter%20Kempthorne%22"
+    },
+    {
+      "instructor": "Dr. Jake Xia",
+      "url": "/search/?q=%22Dr.%20Jake%20Xia%22"
+    },
+    {
+      "instructor": "Dr. Choongbum Lee",
+      "url": "/search/?q=%22Dr.%20Choongbum%20Lee%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Business",
+      "subtopics": [
+        {
+          "subtopic": "Finance",
+          "specialities": [],
+          "url": "/search/?t=Finance"
+        }
+      ],
+      "url": "/search/?t=Business"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        },
+        {
+          "subtopic": "Probability and Statistics",
+          "specialities": [],
+          "url": "/search/?t=Probability%20and%20Statistics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.S096"
+  ],
+  "term": "Fall 2013",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

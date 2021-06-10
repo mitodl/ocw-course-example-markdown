@@ -1,0 +1,59 @@
+{
+  "course_id": "21m-295-american-popular-music-fall-2014",
+  "course_title": "American Popular Music",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/a57dec71093e5b2433d7f4fd060d667e_21m-295f14.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/a54a6d941de8a6ca69b6117106a410f5_21m-295f14-th.jpg",
+  "course_image_alternate_text": "Two guitars combined into one.",
+  "course_image_caption_text": "<p>An acoustic and an electric guitar. In this course, students analyzed the instrumentation form of various assigned popular songs. (Acoustic guitar courtesy of Megan Allen on Flickr; electric guitar courtesy of <a href=\"http://www.flickr.com/photos/eprater/8305906536/\">Ethan Prater</a> on Flickr. Licenses: CC BY.)</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+  "publishdate": "2015-06-05T15:04:48-04:00",
+  "instructors": [
+    {
+      "instructor": "Teresa Neff",
+      "url": "/search/?q=%22Teresa%20Neff%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Music and Theater Arts",
+      "url": "/search/?d=Music%20and%20Theater%20Arts"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Written Assignments",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Fine Arts",
+      "subtopics": [
+        {
+          "subtopic": "Music",
+          "specialities": [
+            {
+              "speciality": "Music History",
+              "url": "/search/?t=Music%20History"
+            },
+            {
+              "speciality": "Music Theory",
+              "url": "/search/?t=Music%20Theory"
+            }
+          ],
+          "url": "/search/?t=Music"
+        }
+      ],
+      "url": "/search/?t=Fine%20Arts"
+    }
+  ],
+  "course_numbers": [
+    "21M.295"
+  ],
+  "term": "Fall 2014",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

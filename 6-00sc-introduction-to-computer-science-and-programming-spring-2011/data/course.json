@@ -1,0 +1,72 @@
+{
+  "course_id": "6-00sc-introduction-to-computer-science-and-programming-spring-2011",
+  "course_title": "Introduction to Computer Science and Programming",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8f5a9bdc32870b1d41e6bf4482f14274_6-00scf11-th.jpg",
+  "course_image_alternate_text": "Photograph of a Roomba vacuum robot, virus model, MIT campus map, and Boggle game board.",
+  "course_image_caption_text": "<p>Many of the problem sets focus on specific topics, such as virus population dynamics, word games, optimizing routes, or simulating the movement of a <a href=\"http://en.wikipedia.org/wiki/Roomba\">Roomba</a>. (Roomba photograph courtesy of <a href=\"http://www.flickr.com/photos/bunny/802123646/\">Stephanie Booth</a> on Flickr; virus image courtesy of the <a href=\"http://www.cdc.gov/std/hpv/stdfact-hpv-vaccine-hcp.htm\">CDC</a>; Boggle photograph courtesy of <a href=\"http://www.flickr.com/photos/angelinawb/258801158/\">Angelina</a> on Flickr; MIT campus map image courtesy of <a href=\"http://www.flickr.com/photos/rahulg/701257372/\">RahulG</a> on Flickr.)</p>",
+  "publishdate": "2012-03-02T14:47:24-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. John Guttag",
+      "url": "/search/?q=%22Prof.%20John%20Guttag%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/unit-1/lecture-1-introduction-to-6.00"
+    },
+    {
+      "feature": "Recitation Videos",
+      "url": "/sections/unit-1/lecture-2-core-elements-of-a-program"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/unit-1/lecture-2-core-elements-of-a-program"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/unit-1/quiz-i"
+    },
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/references"
+    },
+    {
+      "feature": "Programming Assignments with Examples",
+      "url": "/sections/unit-1/lecture-2-core-elements-of-a-program"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "6.00SC"
+  ],
+  "term": "Spring 2011",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[6.00 INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008) |  FALL 2008"
+  ],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,84 @@
+{
+  "course_id": "res-15-003-shaping-the-future-of-work-15-662x-spring-2016",
+  "course_title": "Shaping the Future of Work (15.662x)",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/c53fc2fc9a4ab00a45b7d985632e0989_res-15-003s16-th.jpg",
+  "course_image_alternate_text": "Protesters rally holding signs that read \"save Market Basket\" and \"I won't shop here.\"",
+  "course_image_caption_text": "<p>On August 5, 2014 thousands rallied outside of the Tewksbury Market Basket location, demanding that the board reinstate Arthur T. Demoulas as CEO. (Courtesy of <a href=\"https://www.flickr.com/photos/streamingmeemee/14836581424/\">Tim Carter</a> on Flickr. License: CC BY-NC.)</p>",
+  "publishdate": "2017-03-07T13:03:29-05:00",
+  "instructors": [
+    {
+      "instructor": "Thomas Kochan",
+      "url": "/search/?q=%22Thomas%20Kochan%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/introduction-challenges-and-opportunities"
+    },
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/readings"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Business",
+      "subtopics": [
+        {
+          "subtopic": "Industrial Relations and Human Resource Management",
+          "specialities": [],
+          "url": "/search/?t=Industrial%20Relations%20and%20Human%20Resource%20Management"
+        }
+      ],
+      "url": "/search/?t=Business"
+    },
+    {
+      "topic": "Social Science",
+      "subtopics": [
+        {
+          "subtopic": "Economics",
+          "specialities": [
+            {
+              "speciality": "Industrial Organization",
+              "url": "/search/?t=Industrial%20Organization"
+            },
+            {
+              "speciality": "Labor Economics",
+              "url": "/search/?t=Labor%20Economics"
+            }
+          ],
+          "url": "/search/?t=Economics"
+        },
+        {
+          "subtopic": "Public Administration",
+          "specialities": [
+            {
+              "speciality": "Social Welfare",
+              "url": "/search/?t=Social%20Welfare"
+            }
+          ],
+          "url": "/search/?t=Public%20Administration"
+        }
+      ],
+      "url": "/search/?t=Social%20Science"
+    }
+  ],
+  "course_numbers": [
+    "RES.15-003"
+  ],
+  "term": "Spring 2016",
+  "level": {
+    "level": "Graduate",
+    "url": "/search/?l=Graduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

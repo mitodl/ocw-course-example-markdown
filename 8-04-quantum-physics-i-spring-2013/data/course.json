@@ -1,0 +1,73 @@
+{
+  "course_id": "8-04-quantum-physics-i-spring-2013",
+  "course_title": "Quantum Physics I",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-04-quantum-physics-i-spring-2013/f9a126fdf655de26b194279aa4e2a62b_8-04s13.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-04-quantum-physics-i-spring-2013/720b70bf4d82d7282f36f4dfca689de1_8-04s13-th.jpg",
+  "course_image_alternate_text": "Lines and boxes showing experimental set-up.",
+  "course_image_caption_text": "<p>Experimental set-up: First we split the beam, then we send one beam through the potential and the other along a free path of the same length, then we interfere the two beams to compare the phase. (Image courtesy of Allan Adams.)</p>",
+  "publishdate": "2014-06-18T14:41:49-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Allan Adams",
+      "url": "/search/?q=%22Prof.%20Allan%20Adams%22"
+    },
+    {
+      "instructor": "Prof. Matthew Evans",
+      "url": "/search/?q=%22Prof.%20Matthew%20Evans%22"
+    },
+    {
+      "instructor": "Prof. Barton Zwiebach",
+      "url": "/search/?q=%22Prof.%20Barton%20Zwiebach%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Physics",
+      "url": "/search/?d=Physics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    },
+    {
+      "feature": "Exams",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Quantum Mechanics",
+              "url": "/search/?t=Quantum%20Mechanics"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "8.04"
+  ],
+  "term": "Spring 2013",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[8.04 QUANTUM PHYSICS I](/courses/8-04-quantum-physics-i-spring-2016) |  SPRING 2016"
+  ],
+  "open_learning_library_versions": []
+}

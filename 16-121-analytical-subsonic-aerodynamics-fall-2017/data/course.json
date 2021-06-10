@@ -1,0 +1,59 @@
+{
+  "course_id": "16-121-analytical-subsonic-aerodynamics-fall-2017",
+  "course_title": "Analytical Subsonic Aerodynamics",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/16-121-analytical-subsonic-aerodynamics-fall-2017/f90f8d184d192834954581bd81377a46_16-121f17.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/16-121-analytical-subsonic-aerodynamics-fall-2017/c505ef3d4ed71ccd979633a287b53ba0_16-121f17-th.jpg",
+  "course_image_alternate_text": "An aircraft engine with blue sky and white clouds in the background",
+  "course_image_caption_text": "<p>Engine of the Boeing B-17 Flying Fortress (Courtesy of&nbsp;<a href=\"https://www.flickr.com/photos/nikkormat777/6137054828/in/photostream/\">Emmanuel&nbsp;Marion</a> on Flickr. License CC BY-NC-SA).</p>",
+  "publishdate": "2018-12-11T17:03:40-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Wesley Harris",
+      "url": "/search/?q=%22Prof.%20Wesley%20Harris%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Aeronautics and Astronautics",
+      "url": "/search/?d=Aeronautics%20and%20Astronautics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Aerospace Engineering",
+          "specialities": [
+            {
+              "speciality": "Aerodynamics",
+              "url": "/search/?t=Aerodynamics"
+            }
+          ],
+          "url": "/search/?t=Aerospace%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "16.121"
+  ],
+  "term": "Fall 2017",
+  "level": {
+    "level": "Graduate",
+    "url": "/search/?l=Graduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,67 @@
+{
+  "course_id": "12-001-introduction-to-geology-fall-2013",
+  "course_title": "Introduction to Geology",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/76ea2d54123485055dd1e6621b9edf6a_12-001f13.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/9c7d2d37144d9f570f3f70668e2bd681_12-001f13-th.jpg",
+  "course_image_alternate_text": "A map of North America with colors that represent the ages of the underlying rocks.",
+  "course_image_caption_text": "<p>The North America Tapestry of Time and Terrain. This map is a portrait of the land surface of North America and the ages of its underlying rock formations. This digital tapestry outlines the geologic story of continental collision and break-up, mountain-building, river erosion and deposition, ice-cap glaciation, volcanism, and other events and processes that have shaped the region over the last 2.6 billion years. (Image and text courtesy of the <a href=\"http://www.usgs.gov/\">U.S. Geological Survey</a>.)</p>",
+  "publishdate": "2015-02-06T17:35:37-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Oliver Jagoutz",
+      "url": "/search/?q=%22Prof.%20Oliver%20Jagoutz%22"
+    },
+    {
+      "instructor": "Prof. Taylor Perron",
+      "url": "/search/?q=%22Prof.%20Taylor%20Perron%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Earth, Atmospheric, and Planetary Sciences",
+      "url": "/search/?d=Earth%2C%20Atmospheric%2C%20and%20Planetary%20Sciences"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/labs-and-exercises"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes-and-slides"
+    },
+    {
+      "feature": "Image Gallery",
+      "url": "/sections/field-trip"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Earth Science",
+          "specialities": [
+            {
+              "speciality": "Geology",
+              "url": "/search/?t=Geology"
+            }
+          ],
+          "url": "/search/?t=Earth%20Science"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "12.001"
+  ],
+  "term": "Fall 2013",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

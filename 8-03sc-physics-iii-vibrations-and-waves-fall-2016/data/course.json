@@ -1,0 +1,75 @@
+{
+  "course_id": "8-03sc-physics-iii-vibrations-and-waves-fall-2016",
+  "course_title": "Physics III: Vibrations and Waves",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/980aca1ec64806ffa11a8d6a506b1fbb_8-03scf16-th.jpg",
+  "course_image_alternate_text": "A water drop on top and water column with waves below it.",
+  "course_image_caption_text": "<p>Vibrations and waves caused by water drops.&nbsp;(Image courtesy of <a href=\"https://www.flickr.com/photos/23431635@N06/3274254780/in/photolist-nBWCjW-s9TPh7-21u7G1P-qRRYJN-a2cxn2-5ZkpSC-Ddqb5p-72z2D3-81SBTD-9oeYAN-FpA9hC-7oiwxu-7AXgVn-6RmiuP-7oeCka-o3epC-bxKdS8-81VLnb-81SBZk-6RqmCA-7oiwSQ-c8Pmsj-7oiv2j-81VLvy-81VLqA-7oeBLp-81VLt5-xyuRKB-6LwvoU-6LsmEr-oGFUVn-aNLmWM-8epbkN-jJq4N2-7FZA1s-6LwvQm-7kBPau-6LwvBA-6kLe2w-mFN3y-evFzKX-sAzAXv-5T9JJW-6Yyy5X-GJEbF-tEzSZe-cMtx5h\">erwan bazin</a> on flickr. License CC BY-NC-SA.)</p>",
+  "publishdate": "2018-04-18T16:40:04-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Yen-Jie Lee",
+      "url": "/search/?q=%22Prof.%20Yen-Jie%20Lee%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Physics",
+      "url": "/search/?d=Physics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/part-i-mechanical-vibrations-and-waves/lecture-1"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/final-exam"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/part-i-mechanical-vibrations-and-waves/lecture-1"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/part-i-mechanical-vibrations-and-waves/lecture-1"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Classical Mechanics",
+              "url": "/search/?t=Classical%20Mechanics"
+            },
+            {
+              "speciality": "Electromagnetism",
+              "url": "/search/?t=Electromagnetism"
+            },
+            {
+              "speciality": "Atomic, Molecular, Optical Physics",
+              "url": "/search/?t=Atomic%2C%20Molecular%2C%20Optical%20Physics"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "8.03SC"
+  ],
+  "term": "Fall 2016",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

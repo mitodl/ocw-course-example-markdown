@@ -1,0 +1,73 @@
+{
+  "course_id": "18-01-single-variable-calculus-fall-2006",
+  "course_title": "Single Variable Calculus",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/24c4a7d9cd569a82ef34a8563e50add8_18-01f06.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/1cf60f61e157cd09f5018019ddb11f27_18-01f06-th.jpg",
+  "course_image_alternate_text": "An illustration of secant and tangent lines.",
+  "course_image_caption_text": "<p>You can use calculus to find the slope of any function at a given point. (Image by MIT OpenCourseWare.)</p>",
+  "publishdate": "2007-07-24T06:30:40-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. David Jerison",
+      "url": "/search/?q=%22Prof.%20David%20Jerison%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Calculus",
+          "specialities": [],
+          "url": "/search/?t=Calculus"
+        },
+        {
+          "subtopic": "Differential Equations",
+          "specialities": [],
+          "url": "/search/?t=Differential%20Equations"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.01"
+  ],
+  "term": "Fall 2006",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[18.01SC SINGLE VARIABLE CALCULUS](/courses/18-01sc-single-variable-calculus-fall-2010) | SCHOLAR,  FALL 2010"
+  ],
+  "open_learning_library_versions": [
+    "[18.01.1x Calculus 1A Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | OPEN LEARNING LIBRARY",
+    "[18.01.2x Calculus 1B Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | OPEN LEARNING LIBRARY",
+    "[18.01.3x Calculus 1C Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | OPEN LEARNING LIBRARY"
+  ]
+}

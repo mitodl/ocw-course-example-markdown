@@ -1,0 +1,120 @@
+{
+  "course_id": "20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015",
+  "course_title": "Becoming the Next Bill Nye: Writing and Hosting the Educational Show",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/785a79c50c00d87b818be3a0dc8a79ae_20-219iap15-th.jpg",
+  "course_image_alternate_text": "A woman in an MIT shirt being filmed by a crew.",
+  "course_image_caption_text": "<p>MIT Sloan Fellow Andrea Desrosiers is making an educational video about orthodontics. (Photograph courtesy of Elizabeth Choe.)</p>",
+  "publishdate": "2016-03-01T18:37:51-05:00",
+  "instructors": [
+    {
+      "instructor": "Ceri Riley",
+      "url": "/search/?q=%22Ceri%20Riley%22"
+    },
+    {
+      "instructor": "Elizabeth Choe",
+      "url": "/search/?q=%22Elizabeth%20Choe%22"
+    },
+    {
+      "instructor": "Joshua Gunn",
+      "url": "/search/?q=%22Joshua%20Gunn%22"
+    },
+    {
+      "instructor": "Jaime Goldstein",
+      "url": "/search/?q=%22Jaime%20Goldstein%22"
+    },
+    {
+      "instructor": "Dr. Natalie Kuldell",
+      "url": "/search/?q=%22Dr.%20Natalie%20Kuldell%22"
+    },
+    {
+      "instructor": "George Zaidan",
+      "url": "/search/?q=%22George%20Zaidan%22"
+    },
+    {
+      "instructor": "Chris Boebel",
+      "url": "/search/?q=%22Chris%20Boebel%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Biological Engineering",
+      "url": "/search/?d=Biological%20Engineering"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/day-1-identity-and-genre"
+    },
+    {
+      "feature": "Projects with Examples",
+      "url": "/sections/student-projects"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Fine Arts",
+      "subtopics": [
+        {
+          "subtopic": "Media Studies",
+          "specialities": [
+            {
+              "speciality": "Digital Media",
+              "url": "/search/?t=Digital%20Media"
+            }
+          ],
+          "url": "/search/?t=Media%20Studies"
+        },
+        {
+          "subtopic": "Visual Arts",
+          "specialities": [
+            {
+              "speciality": "Film and Video",
+              "url": "/search/?t=Film%20and%20Video"
+            }
+          ],
+          "url": "/search/?t=Visual%20Arts"
+        }
+      ],
+      "url": "/search/?t=Fine%20Arts"
+    },
+    {
+      "topic": "Social Science",
+      "subtopics": [
+        {
+          "subtopic": "Communication",
+          "specialities": [],
+          "url": "/search/?t=Communication"
+        }
+      ],
+      "url": "/search/?t=Social%20Science"
+    },
+    {
+      "topic": "Teaching and Education",
+      "subtopics": [
+        {
+          "subtopic": "Curriculum and Teaching",
+          "specialities": [],
+          "url": "/search/?t=Curriculum%20and%20Teaching"
+        },
+        {
+          "subtopic": "Educational Technology",
+          "specialities": [],
+          "url": "/search/?t=Educational%20Technology"
+        }
+      ],
+      "url": "/search/?t=Teaching%20and%20Education"
+    }
+  ],
+  "course_numbers": [
+    "20.219"
+  ],
+  "term": "January IAP 2015",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

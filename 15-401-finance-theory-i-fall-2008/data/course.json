@@ -1,0 +1,78 @@
+{
+  "course_id": "15-401-finance-theory-i-fall-2008",
+  "course_title": "Finance Theory I",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/15-401-finance-theory-i-fall-2008/5ec2e66e89b03d5c5c7806672a26167e_15-401f08.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/15-401-finance-theory-i-fall-2008/da841a75870c7bc8a5197c11c21aa825_15-401f08-th.jpg",
+  "course_image_alternate_text": "Photograph of several people standing around a computer terminal.",
+  "course_image_caption_text": "<p>Trading in process on the floor of the New York Stock Exchange. (This image is in the public domain, found on <a href=\"http://commons.wikimedia.org/wiki/File:NYSE-floor.jpg\">Wikimedia Commons</a>.)&nbsp;</p>",
+  "publishdate": "2013-05-10T14:54:55-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Andrew Lo",
+      "url": "/search/?q=%22Prof.%20Andrew%20Lo%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Sloan School of Management",
+      "url": "/search/?d=Sloan%20School%20of%20Management"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/video-lectures-and-slides"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures-and-slides"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/problem-sets"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Social Science",
+      "subtopics": [
+        {
+          "subtopic": "Economics",
+          "specialities": [
+            {
+              "speciality": "Financial Economics",
+              "url": "/search/?t=Financial%20Economics"
+            }
+          ],
+          "url": "/search/?t=Economics"
+        }
+      ],
+      "url": "/search/?t=Social%20Science"
+    },
+    {
+      "topic": "Business",
+      "subtopics": [
+        {
+          "subtopic": "Finance",
+          "specialities": [],
+          "url": "/search/?t=Finance"
+        }
+      ],
+      "url": "/search/?t=Business"
+    }
+  ],
+  "course_numbers": [
+    "15.401"
+  ],
+  "term": "Fall 2008",
+  "level": {
+    "level": "Graduate",
+    "url": "/search/?l=Graduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

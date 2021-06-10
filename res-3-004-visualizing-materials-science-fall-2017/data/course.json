@@ -1,0 +1,70 @@
+{
+  "course_id": "res-3-004-visualizing-materials-science-fall-2017",
+  "course_title": "Visualizing Materials Science",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/75b0d8cbdd3a25e71146523499c3975c_RES_3_004F17.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/39ed41689c07aab102006483711fa96c_RES_3_004F17-th.jpg",
+  "course_image_alternate_text": "Three close up images of the larger diffracted image also pictured.",
+  "course_image_caption_text": "<p>Interactive simulation of selected-area diffraction.  The information from one spot (top row, middle) of the diffraction image (bottom) of a twin boundary (top left) is used to selectively reconstruct (top right) an image that contains that spot&rsquo;s periodicity. (Image by Prof. W. Craig Carter.)&nbsp;</p>",
+  "publishdate": "2019-05-07T12:46:11-04:00",
+  "instructors": [
+    {
+      "instructor": "W. Carter",
+      "url": "/search/?q=%22W.%20Carter%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Tutorial Videos",
+      "url": "/sections/student-projects-by-year/2017-MIT"
+    },
+    {
+      "feature": "Projects with Examples",
+      "url": "/sections/student-projects-by-year"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Materials Science and Engineering",
+          "specialities": [],
+          "url": "/search/?t=Materials%20Science%20and%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        },
+        {
+          "subtopic": "Computation",
+          "specialities": [],
+          "url": "/search/?t=Computation"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "RES.3-004"
+  ],
+  "term": "Fall 2017",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

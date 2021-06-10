@@ -1,0 +1,69 @@
+{
+  "course_id": "8-04-quantum-physics-i-spring-2016",
+  "course_title": "Quantum Physics I",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/458fa90d4ae8b2d71bca7578a12923af_8-04s16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/46c9e288fc6c91a1d2a0dca10ba03875_8-04s16-th.jpg",
+  "course_image_alternate_text": "Lines and boxes showing experimental set-up of a Mach-Zehnder interferometer.",
+  "course_image_caption_text": "<p>A Mach-Zehnder interferometer, with two beam splitters, two mirrors, and two detectors, is used to test if an  Elitzur-Vaidman bomb is functional without detonating it. (Image by MIT OpenCourseWare.)<br /> &nbsp;</p>",
+  "publishdate": "2017-07-05T12:15:47-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Barton Zwiebach",
+      "url": "/search/?q=%22Prof.%20Barton%20Zwiebach%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Physics",
+      "url": "/search/?d=Physics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Quantum Mechanics",
+              "url": "/search/?t=Quantum%20Mechanics"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "8.04"
+  ],
+  "term": "Spring 2016",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[8.04 QUANTUM PHYSICS I](/courses/8-04-quantum-physics-i-spring-2013) |  SPRING 2013"
+  ],
+  "open_learning_library_versions": []
+}

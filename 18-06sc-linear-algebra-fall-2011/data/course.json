@@ -1,0 +1,76 @@
+{
+  "course_id": "18-06sc-linear-algebra-fall-2011",
+  "course_title": "Linear Algebra",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/ecd40b5c89e03d9483b1a25656487d63_18-06scf11-th.jpg",
+  "course_image_alternate_text": "Multi-colored cubes arranged to create the illusion of hexagons.",
+  "course_image_caption_text": "<p>This optical illusion was seen on a restaurant floor in Paris, and <a href=\"./resolveuid/cf325539d9694ecc903896ebbe64b448\">coded in MATLAB&reg;</a> by <a href=\"http://newsoffice.mit.edu/2012/mit-opencourseware-publishes-linear-algebra-in-innovative-ocw-scholar-format\">Shev Macnamara</a>. Each color can become the tops of the cubes if you look at them correctly.&nbsp;</p>",
+  "publishdate": "2012-01-24T16:18:50-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Gilbert Strang",
+      "url": "/search/?q=%22Prof.%20Gilbert%20Strang%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/ax-b-and-the-four-subspaces"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/ax-b-and-the-four-subspaces"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/ax-b-and-the-four-subspaces"
+    },
+    {
+      "feature": "Recitation Videos",
+      "url": "/sections/ax-b-and-the-four-subspaces"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/ax-b-and-the-four-subspaces"
+    },
+    {
+      "feature": "Simulations",
+      "url": "/sections/positive-definite-matrices-and-applications"
+    },
+    {
+      "feature": "Course Introduction",
+      "url": "/sections/syllabus"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Linear Algebra",
+          "specialities": [],
+          "url": "/search/?t=Linear%20Algebra"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.06SC"
+  ],
+  "term": "Fall 2011",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[18.06 LINEAR ALGEBRA](/courses/18-06-linear-algebra-spring-2010) |  SPRING 2010"
+  ],
+  "open_learning_library_versions": []
+}

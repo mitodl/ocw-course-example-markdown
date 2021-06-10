@@ -1,0 +1,81 @@
+{
+  "course_id": "18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018",
+  "course_title": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/a24ae149b417e01db75f22ca566124e1_18-065s18.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/6fc0c9f8ce06143dba32a0ee3216c06a_18-065s18-th.jpg",
+  "course_image_alternate_text": "Four boxes with text and four arrows to illustrate the math relationship among linear algebra, probability and statistics, optimization, and deep learning.",
+  "course_image_caption_text": "<p><a href=\"./resolveuid/81a89fea04ecc7d7959ab442d3e31986\">Relationship</a> among linear algebra, probability and statistics, optimization, and deep learning. Courtesy of Jonathan Harmon. Used with permission.</p>",
+  "publishdate": "2019-05-16T11:05:00-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Gilbert Strang",
+      "url": "/search/?q=%22Prof.%20Gilbert%20Strang%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Electrical Engineering",
+          "specialities": [
+            {
+              "speciality": "Signal Processing",
+              "url": "/search/?t=Signal%20Processing"
+            }
+          ],
+          "url": "/search/?t=Electrical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        },
+        {
+          "subtopic": "Computation",
+          "specialities": [],
+          "url": "/search/?t=Computation"
+        },
+        {
+          "subtopic": "Linear Algebra",
+          "specialities": [],
+          "url": "/search/?t=Linear%20Algebra"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.065",
+    "18.0651"
+  ],
+  "term": "Spring 2018",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,67 @@
+{
+  "course_id": "res-6-008-digital-signal-processing-spring-2011",
+  "course_title": "Digital Signal Processing",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-008-digital-signal-processing-spring-2011/1330ee36bc695d9979be47aea3298576_res-6-008s11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-008-digital-signal-processing-spring-2011/79776ee25b58474cc0433c24b24fc46d_res-6-008s11-th.jpg",
+  "course_image_alternate_text": "Digital display of wave patterns.",
+  "course_image_caption_text": "<p>Demonstration of the effects of sampling and aliasing for sinusoidal frequencies. Beginning at half the sampling frequency, the output sinusoidal frequency will decrease despite an increasing input frequency. These topics are covered in lecture 14 and the demonstration videos.</p>",
+  "publishdate": "2011-05-31T14:09:35-04:00",
+  "instructors": [
+    {
+      "instructor": "Alan Oppenheim",
+      "url": "/search/?q=%22Alan%20Oppenheim%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/study-materials"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/study-materials"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Electrical Engineering",
+          "specialities": [
+            {
+              "speciality": "Signal Processing",
+              "url": "/search/?t=Signal%20Processing"
+            },
+            {
+              "speciality": "Digital Systems",
+              "url": "/search/?t=Digital%20Systems"
+            }
+          ],
+          "url": "/search/?t=Electrical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "RES.6-008"
+  ],
+  "term": "Spring 2011",
+  "level": {
+    "level": "Graduate",
+    "url": "/search/?l=Graduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

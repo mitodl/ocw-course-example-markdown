@@ -1,0 +1,85 @@
+{
+  "course_id": "21g-049-french-photography-spring-2017",
+  "course_title": "French Photography",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/21g-049-french-photography-spring-2017/1e49b0114f3758288898d58b1f8e85e0_21G-049S17.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/21g-049-french-photography-spring-2017/a94fe7104b70acff03200b23544286c7_21G-049S17-th.jpg",
+  "course_image_alternate_text": "A shop window displaying rows of corsets on dress forms. ",
+  "course_image_caption_text": "<p>A photo taken in 1912 by Eugène Atget of a Corsetière shop window on Boulevard de Strasbourg in Paris. (Image is in the public domain. Source: <a href=\"https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Boulevard_de_Strasbourg,_Corsets,_Paris,_1912.jpg\">Wikimedia Commons</a>.)</p>",
+  "publishdate": "2018-01-24T13:20:04-05:00",
+  "instructors": [
+    {
+      "instructor": "Catherine Clark",
+      "url": "/search/?q=%22Catherine%20Clark%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Global Studies and Languages",
+      "url": "/search/?d=Global%20Studies%20and%20Languages"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Written Assignments",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Image Gallery",
+      "url": "/sections/assignments/visual-analysis-papers"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Fine Arts",
+      "subtopics": [
+        {
+          "subtopic": "Visual Arts",
+          "specialities": [
+            {
+              "speciality": "Photography",
+              "url": "/search/?t=Photography"
+            }
+          ],
+          "url": "/search/?t=Visual%20Arts"
+        }
+      ],
+      "url": "/search/?t=Fine%20Arts"
+    },
+    {
+      "topic": "Humanities",
+      "subtopics": [
+        {
+          "subtopic": "Literature",
+          "specialities": [
+            {
+              "speciality": "Criticism",
+              "url": "/search/?t=Criticism"
+            }
+          ],
+          "url": "/search/?t=Literature"
+        },
+        {
+          "subtopic": "Language",
+          "specialities": [
+            {
+              "speciality": "French",
+              "url": "/search/?t=French"
+            }
+          ],
+          "url": "/search/?t=Language"
+        }
+      ],
+      "url": "/search/?t=Humanities"
+    }
+  ],
+  "course_numbers": [
+    "21G.049"
+  ],
+  "term": "Spring 2017",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

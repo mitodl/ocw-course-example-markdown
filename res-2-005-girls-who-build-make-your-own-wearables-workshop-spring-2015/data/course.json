@@ -1,0 +1,102 @@
+{
+  "course_id": "res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015",
+  "course_title": "Girls Who Build: Make Your Own Wearables Workshop",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/576a148b994ad12c915c30e593a90ff7_res-2-005.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0330290d8f3c0230be895fd8d5129bd5_res-2-005-th.jpg",
+  "course_image_alternate_text": "A girl holds up a boot that she is adding lights to.",
+  "course_image_caption_text": "<p>Girls programmed their own light-up shoes as part of the Girls Who Build workshop. (Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.)</p>",
+  "publishdate": "2015-09-29T16:42:18-04:00",
+  "instructors": [
+    {
+      "instructor": "David Scott",
+      "url": "/search/?q=%22David%20Scott%22"
+    },
+    {
+      "instructor": "Leslie Watkins",
+      "url": "/search/?q=%22Leslie%20Watkins%22"
+    },
+    {
+      "instructor": "Kristen Railey",
+      "url": "/search/?q=%22Kristen%20Railey%22"
+    },
+    {
+      "instructor": "Elisabeth Astle",
+      "url": "/search/?q=%22Elisabeth%20Astle%22"
+    },
+    {
+      "instructor": "Gavin Lund",
+      "url": "/search/?q=%22Gavin%20Lund%22"
+    },
+    {
+      "instructor": "Katy Olesnavage",
+      "url": "/search/?q=%22Katy%20Olesnavage%22"
+    },
+    {
+      "instructor": "Mike Gibson",
+      "url": "/search/?q=%22Mike%20Gibson%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Image Gallery",
+      "url": "/sections/image-gallery"
+    },
+    {
+      "feature": "Tutorial Videos",
+      "url": "/sections/circuits-and-code/build-and-test-a-wearable-circuit"
+    },
+    {
+      "feature": "Activity Assignments",
+      "url": "/sections/manufacturing-mechanical-design"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/introduction-to-engineering-its-applications"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [],
+          "url": "/search/?t=Computer%20Science"
+        },
+        {
+          "subtopic": "Mechanical Engineering",
+          "specialities": [],
+          "url": "/search/?t=Mechanical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Teaching and Education",
+      "subtopics": [
+        {
+          "subtopic": "Curriculum and Teaching",
+          "specialities": [],
+          "url": "/search/?t=Curriculum%20and%20Teaching"
+        }
+      ],
+      "url": "/search/?t=Teaching%20and%20Education"
+    }
+  ],
+  "course_numbers": [
+    "RES.2-005"
+  ],
+  "term": "Spring 2015",
+  "level": {
+    "level": "Non Credit",
+    "url": "/search/?l=Non%20Credit"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

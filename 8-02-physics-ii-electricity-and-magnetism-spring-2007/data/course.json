@@ -1,0 +1,111 @@
+{
+  "course_id": "8-02-physics-ii-electricity-and-magnetism-spring-2007",
+  "course_title": "Physics II: Electricity and Magnetism",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/80f23093924b68e94f4a80034902a572_8-02s07.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/1d6fc7959e56d74cc18857cf20ab13dd_8-02s07-th.jpg",
+  "course_image_alternate_text": "Vizualization of a magnet levitating above a superconducting ring.",
+  "course_image_caption_text": "<p>Magnet Levitating Above A Superconducting Ring: The image shows a permanent magnet levitating above a conducting non-magnetic ring with zero resistance. The magnet is levitated by eddy currents induced in the ring by the approaching magnet. These currents are always such as to repel the magnet, by Lenz's Law. (Image by&nbsp;Mark Bessette.)</p>",
+  "publishdate": "2008-01-25T00:04:44-05:00",
+  "instructors": [
+    {
+      "instructor": "Physics Department Faculty, Lecturers, and Technical Staff",
+      "url": "/search/?q=%22Physics%20Department%20Faculty%2C%20Lecturers%2C%20and%20Technical%20Staff%22"
+    },
+    {
+      "instructor": "Prof. Boleslaw Wyslouch",
+      "url": "/search/?q=%22Prof.%20Boleslaw%20Wyslouch%22"
+    },
+    {
+      "instructor": "Brian Wecht",
+      "url": "/search/?q=%22Brian%20Wecht%22"
+    },
+    {
+      "instructor": "Bruce Knuteson",
+      "url": "/search/?q=%22Bruce%20Knuteson%22"
+    },
+    {
+      "instructor": "Prof. Erik Katsavounidis",
+      "url": "/search/?q=%22Prof.%20Erik%20Katsavounidis%22"
+    },
+    {
+      "instructor": "Prof. Gunther Roland",
+      "url": "/search/?q=%22Prof.%20Gunther%20Roland%22"
+    },
+    {
+      "instructor": "Prof. John Belcher",
+      "url": "/search/?q=%22Prof.%20John%20Belcher%22"
+    },
+    {
+      "instructor": "Prof. Joseph Formaggio",
+      "url": "/search/?q=%22Prof.%20Joseph%20Formaggio%22"
+    },
+    {
+      "instructor": "Dr. Peter Dourmashkin",
+      "url": "/search/?q=%22Dr.%20Peter%20Dourmashkin%22"
+    },
+    {
+      "instructor": "Prof. Robert Simcoe",
+      "url": "/search/?q=%22Prof.%20Robert%20Simcoe%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Physics",
+      "url": "/search/?d=Physics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Simulations",
+      "url": "/sections/visualizations"
+    },
+    {
+      "feature": "Simulation Videos",
+      "url": "/sections/visualizations"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/problem-solving"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/class-slides"
+    },
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/readings"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Electromagnetism",
+              "url": "/search/?t=Electromagnetism"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "8.02"
+  ],
+  "term": "Spring 2007",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": [
+    "[8.02.1x Electricity and Magnetism&#58; Electrostatics\r\n](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about) | OPEN LEARNING LIBRARY",
+    "[8.02.2x Electricity and Magnetism&#58; Magnetic Fields and Forces\r\n](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about) | OPEN LEARNING LIBRARY",
+    "[8.02.3x Electricity and Magnetism&#58; Maxwell’s Equations](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about) | OPEN LEARNING LIBRARY"
+  ]
+}

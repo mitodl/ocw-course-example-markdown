@@ -1,0 +1,84 @@
+{
+  "course_id": "8-01sc-classical-mechanics-fall-2016",
+  "course_title": "Classical Mechanics",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/424dd4989c1235387a32fbb5a17b80c1_8-01scf16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/7b061b12b2bf7110fabf7564b7fb6b13_8-01scf16-th.jpg",
+  "course_image_alternate_text": "A photo of a building with the word \"Newton\" engraved on the side.",
+  "course_image_caption_text": "<p>Issac Newton is honored on the facade of Killian Court at MIT. Newton developed most of the concepts studied in classical mechanics. (Photo courtesy of Dr. Michelle Tomasik.)</p>",
+  "publishdate": "2017-06-02T13:19:25-04:00",
+  "instructors": [
+    {
+      "instructor": "Dr. Peter Dourmashkin",
+      "url": "/search/?q=%22Dr.%20Peter%20Dourmashkin%22"
+    },
+    {
+      "instructor": "Prof. Deepto Chakrabarty",
+      "url": "/search/?q=%22Prof.%20Deepto%20Chakrabarty%22"
+    },
+    {
+      "instructor": "Prof. Anna Frebel",
+      "url": "/search/?q=%22Prof.%20Anna%20Frebel%22"
+    },
+    {
+      "instructor": "Prof. Vladan Vuletic",
+      "url": "/search/?q=%22Prof.%20Vladan%20Vuletic%22"
+    },
+    {
+      "instructor": "Dr. Michelle Tomasik",
+      "url": "/search/?q=%22Dr.%20Michelle%20Tomasik%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Physics",
+      "url": "/search/?d=Physics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/review-vectors/0.1-vectors-vs.-scalars"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/readings"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Classical Mechanics",
+              "url": "/search/?t=Classical%20Mechanics"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "8.01SC"
+  ],
+  "term": "Fall 2016",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": [
+    "[8.01.1x Mechanics-Kinematics and Dynamics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.1x+3T2018/about) | OPEN LEARNING LIBRARY",
+    "[8.01.2x Mechanics-Momentum and Energy](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.2x+3T2018/about) | OPEN LEARNING LIBRARY",
+    "[8.01.3x Mechanics-Rotational Dynamics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.3x+1T2019/about) | OPEN LEARNING LIBRARY",
+    "[8.01.4x Mechanics-Simple Harmonic Motion](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.4x+1T2019/about) | OPEN LEARNING LIBRARY"
+  ]
+}

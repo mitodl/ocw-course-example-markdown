@@ -1,0 +1,81 @@
+{
+  "course_id": "6-0002-introduction-to-computational-thinking-and-data-science-fall-2016",
+  "course_title": "Introduction to Computational Thinking and Data Science",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/cc10166a431e4c4c63bc37705d8a62a1_6-0002f16-th.jpg",
+  "course_image_alternate_text": "Abstract blue, red, yellow, and purple block clusters.",
+  "course_image_caption_text": "<p>The image above represents the clusters found by a clustering algorithm. The arms of each color equal the distance from the center to each point in the cluster. (Courtesy of Ana Bell.)</p>",
+  "publishdate": "2017-05-18T16:40:15-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Eric Grimson",
+      "url": "/search/?q=%22Prof.%20Eric%20Grimson%22"
+    },
+    {
+      "instructor": "Prof. John Guttag",
+      "url": "/search/?q=%22Prof.%20John%20Guttag%22"
+    },
+    {
+      "instructor": "Dr. Ana Bell",
+      "url": "/search/?q=%22Dr.%20Ana%20Bell%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/lecture-videos"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-slides-and-files"
+    },
+    {
+      "feature": "Programming Assignments",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Probability and Statistics",
+          "specialities": [],
+          "url": "/search/?t=Probability%20and%20Statistics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "6.0002"
+  ],
+  "term": "Fall 2016",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

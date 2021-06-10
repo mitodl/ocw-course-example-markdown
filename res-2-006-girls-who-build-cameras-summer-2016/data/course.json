@@ -1,0 +1,106 @@
+{
+  "course_id": "res-2-006-girls-who-build-cameras-summer-2016",
+  "course_title": "Girls Who Build Cameras",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/8e60dab55e9ba404c7dfe5645d5a8978_res-2-006sum16-th.jpg",
+  "course_image_alternate_text": "A photograph of a girl holding parts of a programmable camera as part of the Girls Who Build Cameras workshop.",
+  "course_image_caption_text": "<p>Girls built and programmed their own Raspberry Pi cameras as part of the Girls Who Build Cameras workshop. (Courtesy of Jon Barron, MIT Lincoln Laboratory.)</p>",
+  "publishdate": "2016-12-08T14:40:07-05:00",
+  "instructors": [
+    {
+      "instructor": "Kristen Railey",
+      "url": "/search/?q=%22Kristen%20Railey%22"
+    },
+    {
+      "instructor": "Bob Schulein",
+      "url": "/search/?q=%22Bob%20Schulein%22"
+    },
+    {
+      "instructor": "Olivia Glennon",
+      "url": "/search/?q=%22Olivia%20Glennon%22"
+    },
+    {
+      "instructor": "Leslie Watkins",
+      "url": "/search/?q=%22Leslie%20Watkins%22"
+    },
+    {
+      "instructor": "Alex Lorman",
+      "url": "/search/?q=%22Alex%20Lorman%22"
+    },
+    {
+      "instructor": "Carol Carveth",
+      "url": "/search/?q=%22Carol%20Carveth%22"
+    },
+    {
+      "instructor": "Sara James",
+      "url": "/search/?q=%22Sara%20James%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/applications-of-camera-technology"
+    },
+    {
+      "feature": "Image Gallery",
+      "url": "/sections/image-gallery"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/applications-of-camera-technology"
+    },
+    {
+      "feature": "Activity Assignments with Examples",
+      "url": "/sections/digital-cameras"
+    },
+    {
+      "feature": "Programming Assignments with Examples",
+      "url": "/sections/digital-cameras"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Energy",
+      "subtopics": [
+        {
+          "subtopic": "Technology",
+          "specialities": [],
+          "url": "/search/?t=Technology"
+        }
+      ],
+      "url": "/search/?t=Energy"
+    },
+    {
+      "topic": "Engineering",
+      "subtopics": [],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Teaching and Education",
+      "subtopics": [
+        {
+          "subtopic": "Curriculum and Teaching",
+          "specialities": [],
+          "url": "/search/?t=Curriculum%20and%20Teaching"
+        }
+      ],
+      "url": "/search/?t=Teaching%20and%20Education"
+    }
+  ],
+  "course_numbers": [
+    "RES.2-006"
+  ],
+  "term": "Summer 2016",
+  "level": {
+    "level": "Non Credit",
+    "url": "/search/?l=Non%20Credit"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

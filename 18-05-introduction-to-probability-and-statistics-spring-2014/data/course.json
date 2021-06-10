@@ -1,0 +1,71 @@
+{
+  "course_id": "18-05-introduction-to-probability-and-statistics-spring-2014",
+  "course_title": "Introduction to Probability and Statistics",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/c16c76a278bc037b6226b880e87201b4_18-05s14.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/3d9d34ea049f2ce8ac14bb1d7a4f9e23_18-05s14-th.jpg",
+  "course_image_alternate_text": "A graph plot with 5 curves in different colors.",
+  "course_image_caption_text": "<p>Bayesian updating with conjugate normal distributions. (Image by Jerry Orloff and Jonathan Bloom.)</p>",
+  "publishdate": "2014-12-19T13:39:32-05:00",
+  "instructors": [
+    {
+      "instructor": "Jeremy Orloff",
+      "url": "/search/?q=%22Jeremy%20Orloff%22"
+    },
+    {
+      "instructor": "Jonathan Bloom",
+      "url": "/search/?q=%22Jonathan%20Bloom%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/readings"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/instructor-insights"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Probability and Statistics",
+          "specialities": [],
+          "url": "/search/?t=Probability%20and%20Statistics"
+        },
+        {
+          "subtopic": "Discrete Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Discrete%20Mathematics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.05"
+  ],
+  "term": "Spring 2014",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,115 @@
+{
+  "course_id": "ec-711-d-lab-energy-spring-2011",
+  "course_title": "D-Lab: Energy",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/ce3eef57129daf7c8cc223790262ef9c_ec-711s11-th.jpg",
+  "course_image_alternate_text": "Photo of a student standing outdoors next to a box containing cookies, with clear plexiglass top and a large foil solar reflector.",
+  "course_image_caption_text": "<p>During the <a href=\"./resolveuid/fb9d6e56eac497fb24b46d3ac31a62da\">spring break trip</a> to Nicaragua, students worked with community partners on various projects like a solar oven, shown here baking sugar cookies. (Photo courtesy of <a href=\"http://www.flickr.com/photos/d-lab/5576006598\">D-Lab</a> on Flickr.)</p>",
+  "publishdate": "2015-03-17T21:12:22-04:00",
+  "instructors": [
+    {
+      "instructor": "Amy Banzaert",
+      "url": "/search/?q=%22Amy%20Banzaert%22"
+    },
+    {
+      "instructor": "Amit Gandhi",
+      "url": "/search/?q=%22Amit%20Gandhi%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Edgerton Center",
+      "url": "/search/?d=Edgerton%20Center"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/intro-energy-basics-human-power"
+    },
+    {
+      "feature": "Projects with Examples",
+      "url": "/sections/projects/project-results"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/intro-energy-basics-human-power"
+    },
+    {
+      "feature": "Demonstration Videos",
+      "url": "/sections/intro-energy-basics-human-power"
+    },
+    {
+      "feature": "Activity Assignments",
+      "url": "/sections/intro-energy-basics-human-power"
+    },
+    {
+      "feature": "Design Assignments with Examples",
+      "url": "/sections/projects"
+    },
+    {
+      "feature": "Presentation Assignments with Examples",
+      "url": "/sections/week-8-nicaragua-trip"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Electrical Engineering",
+          "specialities": [
+            {
+              "speciality": "Electric Power",
+              "url": "/search/?t=Electric%20Power"
+            }
+          ],
+          "url": "/search/?t=Electrical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Society",
+      "subtopics": [
+        {
+          "subtopic": "The Developing World",
+          "specialities": [],
+          "url": "/search/?t=The%20Developing%20World"
+        }
+      ],
+      "url": "/search/?t=Society"
+    },
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Earth Science",
+          "specialities": [
+            {
+              "speciality": "Sustainability",
+              "url": "/search/?t=Sustainability"
+            }
+          ],
+          "url": "/search/?t=Earth%20Science"
+        }
+      ],
+      "url": "/search/?t=Science"
+    },
+    {
+      "topic": "Energy",
+      "subtopics": [],
+      "url": "/search/?t=Energy"
+    }
+  ],
+  "course_numbers": [
+    "EC.711"
+  ],
+  "term": "Spring 2011",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,74 @@
+{
+  "course_id": "15-071-the-analytics-edge-spring-2017",
+  "course_title": "The Analytics Edge",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/259767fe7f8ce9ade74d1f29372640ef_MIT15-071S17-th.jpg",
+  "course_image_alternate_text": "A set of male icons on left connected to a corresponding set of female icons on the right with numbered dotted lines.",
+  "course_image_caption_text": "<p>The eHarmony online dating website takes a quantitative approach to matchmaking matches rather than solely relying on subscribers to browse profiles. (Male and female icons are in the public domain. Source: <a href=\"https://openclipart.org/\">Openclipart</a>.)</p>",
+  "publishdate": "2018-12-13T13:11:56-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Dimitris Bertsimas",
+      "url": "/search/?q=%22Prof.%20Dimitris%20Bertsimas%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Sloan School of Management",
+      "url": "/search/?d=Sloan%20School%20of%20Management"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/an-introduction-to-analytics"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-and-recitation-notes"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Business",
+      "subtopics": [
+        {
+          "subtopic": "Management",
+          "specialities": [],
+          "url": "/search/?t=Management"
+        },
+        {
+          "subtopic": "Operations Management",
+          "specialities": [],
+          "url": "/search/?t=Operations%20Management"
+        }
+      ],
+      "url": "/search/?t=Business"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Probability and Statistics",
+          "specialities": [],
+          "url": "/search/?t=Probability%20and%20Statistics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "15.071"
+  ],
+  "term": "Spring 2017",
+  "level": {
+    "level": "Graduate",
+    "url": "/search/?l=Graduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

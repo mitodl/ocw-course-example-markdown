@@ -1,0 +1,151 @@
+{
+  "course_id": "16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006",
+  "course_title": "Unified Engineering I, II, III, & IV",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/efd5c344483ac7dcf8aa36900b3f42b9_16-01f05-th.jpg",
+  "course_image_alternate_text": "Illustration of an aircraft wing showing connections between the disciplines of the course.",
+  "course_image_caption_text": "<p>An abstracted aircraft wing, illustrating the connections between the disciplines of Unified Engineering. (Image by MIT OpenCourseWare.)</p>",
+  "publishdate": "2006-11-08T17:13:48-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Mark Drela",
+      "url": "/search/?q=%22Prof.%20Mark%20Drela%22"
+    },
+    {
+      "instructor": "Prof. Steven Hall",
+      "url": "/search/?q=%22Prof.%20Steven%20Hall%22"
+    },
+    {
+      "instructor": "Prof. Paul Lagace",
+      "url": "/search/?q=%22Prof.%20Paul%20Lagace%22"
+    },
+    {
+      "instructor": "Prof. Ingrid Lundqvist",
+      "url": "/search/?q=%22Prof.%20Ingrid%20Lundqvist%22"
+    },
+    {
+      "instructor": "Prof. Gustaf Naeser",
+      "url": "/search/?q=%22Prof.%20Gustaf%20Naeser%22"
+    },
+    {
+      "instructor": "Prof. Heidi Perry",
+      "url": "/search/?q=%22Prof.%20Heidi%20Perry%22"
+    },
+    {
+      "instructor": "Prof. Raúl Radovitzky",
+      "url": "/search/?q=%22Prof.%20Ra%C3%BAl%20Radovitzky%22"
+    },
+    {
+      "instructor": "Prof. Ian Waitz",
+      "url": "/search/?q=%22Prof.%20Ian%20Waitz%22"
+    },
+    {
+      "instructor": "Col. Peter Young",
+      "url": "/search/?q=%22Col.%20Peter%20Young%22"
+    },
+    {
+      "instructor": "Prof. Jennifer Craig",
+      "url": "/search/?q=%22Prof.%20Jennifer%20Craig%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Aeronautics and Astronautics",
+      "url": "/search/?d=Aeronautics%20and%20Astronautics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/thermo-propulsion"
+    },
+    {
+      "feature": "Course Introduction",
+      "url": "/sections/syllabus"
+    },
+    {
+      "feature": "Competition Videos",
+      "url": "/sections/systems-labs-04"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Aerospace Engineering",
+          "specialities": [
+            {
+              "speciality": "Materials Selection",
+              "url": "/search/?t=Materials%20Selection"
+            },
+            {
+              "speciality": "Propulsion Systems",
+              "url": "/search/?t=Propulsion%20Systems"
+            }
+          ],
+          "url": "/search/?t=Aerospace%20Engineering"
+        },
+        {
+          "subtopic": "Mechanical Engineering",
+          "specialities": [
+            {
+              "speciality": "Fluid Mechanics",
+              "url": "/search/?t=Fluid%20Mechanics"
+            }
+          ],
+          "url": "/search/?t=Mechanical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Thermodynamics",
+              "url": "/search/?t=Thermodynamics"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    },
+    {
+      "topic": "Business",
+      "subtopics": [
+        {
+          "subtopic": "Project Management",
+          "specialities": [],
+          "url": "/search/?t=Project%20Management"
+        }
+      ],
+      "url": "/search/?t=Business"
+    }
+  ],
+  "course_numbers": [
+    "16.01",
+    "16.02",
+    "16.03",
+    "16.04"
+  ],
+  "term": "Fall 2005",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

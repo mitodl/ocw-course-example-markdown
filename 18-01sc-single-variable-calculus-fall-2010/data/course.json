@@ -1,0 +1,77 @@
+{
+  "course_id": "18-01sc-single-variable-calculus-fall-2010",
+  "course_title": "Single Variable Calculus",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4f83f6023d195bbba97568501f73d873_18-01SCf10-th.jpg",
+  "course_image_alternate_text": "A graph of three lines, red, yellow, and blue that represent secant approximation. ",
+  "course_image_caption_text": "<p>Secant approximation mathlet from the d'Arbeloff Interactive Math Project. Image courtesy of Haynes Miller, Heidi Burgiel, and J.-M. Claus.</p>",
+  "publishdate": "2011-01-12T12:16:43-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. David Jerison",
+      "url": "/search/?q=%22Prof.%20David%20Jerison%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/1.-differentiation"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/1.-differentiation/part-a-definition-and-basic-rules"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/1.-differentiation/part-a-definition-and-basic-rules"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/1.-differentiation/part-a-definition-and-basic-rules"
+    },
+    {
+      "feature": "Simulations",
+      "url": "/sections/1.-differentiation/part-a-definition-and-basic-rules"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Calculus",
+          "specialities": [],
+          "url": "/search/?t=Calculus"
+        },
+        {
+          "subtopic": "Differential Equations",
+          "specialities": [],
+          "url": "/search/?t=Differential%20Equations"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.01SC"
+  ],
+  "term": "Fall 2010",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[18.01 SINGLE VARIABLE CALCULUS](/courses/18-01-single-variable-calculus-fall-2006) |  FALL 2006"
+  ],
+  "open_learning_library_versions": [
+    "[18.01.1x Calculus 1A&#58; Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | OPEN LEARNING LIBRARY",
+    "[18.01.2x Calculus 1B&#58; Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | OPEN LEARNING LIBRARY",
+    "[18.01.3x Calculus 1C&#58; Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | OPEN LEARNING LIBRARY"
+  ]
+}

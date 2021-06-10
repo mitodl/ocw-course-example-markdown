@@ -1,0 +1,81 @@
+{
+  "course_id": "res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008",
+  "course_title": "Electromagnetic Field Theory: A Problem Solving Approach",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/ae533dcb2d0e5df13984cd1d92dcf691_res-6-002s08.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/79e93ed890b1cf058250db9117492ff6_res-6-002s08-th.jpg",
+  "course_image_alternate_text": "Drawing of a 3-pole magnet with electromagnetic wave sinusoids connecting the three ends.",
+  "course_image_caption_text": "<p>Whimsical optical illusion drawing of a non-physical 3 pole magnet with electromagnetic wave sinusoids connecting magnet poles representing the study of electromagnetic fields and applications in this course. (Image by Prof. Markus Zahn. Used with permision)</p>",
+  "publishdate": "2010-03-08T09:07:34-05:00",
+  "instructors": [
+    {
+      "instructor": "Markus Zahn",
+      "url": "/search/?q=%22Markus%20Zahn%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/textbook-contents"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/textbook-contents"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Electrical Engineering",
+          "specialities": [],
+          "url": "/search/?t=Electrical%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Differential Equations",
+          "specialities": [],
+          "url": "/search/?t=Differential%20Equations"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    },
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [
+            {
+              "speciality": "Electromagnetism",
+              "url": "/search/?t=Electromagnetism"
+            }
+          ],
+          "url": "/search/?t=Physics"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "RES.6-002"
+  ],
+  "term": "Spring 2008",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

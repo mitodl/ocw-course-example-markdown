@@ -1,0 +1,67 @@
+{
+  "course_id": "20-020-introduction-to-biological-engineering-design-spring-2009",
+  "course_title": "Introduction to Biological Engineering Design",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/9cd08e0573573f60c97b19038c3b678b_20-020s09.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/5df425bed50f162e651a5537a8379a3e_20-020s09-th.jpg",
+  "course_image_alternate_text": "Colorful stylized cartoon of a woman looking at a synthetic biology creation.",
+  "course_image_caption_text": "\n<p>This class is Course 20's project-based introduction to the engineering of synthetic biological systems. (Image courtesy of Justin Lo. Used with permission.)</p>",
+  "publishdate": "2009-12-22T07:36:40-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Andrew Endy",
+      "url": "/search/?q=%22Prof.%20Andrew%20Endy%22"
+    },
+    {
+      "instructor": "Dr. Natalie Kuldell",
+      "url": "/search/?q=%22Dr.%20Natalie%20Kuldell%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Biological Engineering",
+      "url": "/search/?d=Biological%20Engineering"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Tutorial Videos",
+      "url": "/sections/biobuilder-animations"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-and-studio-notes"
+    },
+    {
+      "feature": "Projects with Examples",
+      "url": "/sections/projects"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Biological Engineering",
+          "specialities": [
+            {
+              "speciality": "Synthetic Biology",
+              "url": "/search/?t=Synthetic%20Biology"
+            }
+          ],
+          "url": "/search/?t=Biological%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "20.020"
+  ],
+  "term": "Spring 2009",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

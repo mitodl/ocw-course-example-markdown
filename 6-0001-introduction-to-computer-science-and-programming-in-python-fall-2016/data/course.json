@@ -1,0 +1,79 @@
+{
+  "course_id": "6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016",
+  "course_title": "Introduction to Computer Science and Programming in Python",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/bb7bc760922abfcd37f5d8b9203d771f_6-0001f16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/10cee5c23c9034271800f886a7ec68db_6-0001f16-th.jpg",
+  "course_image_alternate_text": "A black backlit keyboard.",
+  "course_image_caption_text": "<p>6.0001 is intended to teach basic programming concepts to students with no prior coding experience. (<a href=\"https://www.flickr.com/photos/demietrich/8509763458/in/photolist-dXYLcC-86Daog-84ATAp-c1EJaQ-djjT1k-ayEub-amXs3H-2wegK-4cvdtW-4cvcWh-4cvdgJ-4EsFG2-5myRok-4creiD-4BcTXk-gGnScp-bpUyED-4WQp72-8ZsF7H-5dCfHE-vhBLQ9-pXC3MM-Dj9dZ-iyQwg-pXBZBt-67zzve-piiJPF-5YKZV-5Vpmh-qcMXUo-gSPV9z-6Wk31u-4eHKmi-8xYDRa-8xYC3K-b59pV-4mgGmN-8xYAVe-8y2D1j-bn7edW-9waQ2W-82iQc-9CmY3Z-c1EJAf-4Y65Zt-dhLziB-51QVc-8y2EC1-pijuye-hjqkN\">Dboybaker</a>, licensed CC-BY-NC-SA)</p>",
+  "publishdate": "2017-01-31T16:26:04-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. John Guttag",
+      "url": "/search/?q=%22Prof.%20John%20Guttag%22"
+    },
+    {
+      "instructor": "Dr. Ana Bell",
+      "url": "/search/?q=%22Dr.%20Ana%20Bell%22"
+    },
+    {
+      "instructor": "Prof. Eric Grimson",
+      "url": "/search/?q=%22Prof.%20Eric%20Grimson%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-slides-code"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/lecture-videos"
+    },
+    {
+      "feature": "Programming Assignments with Examples",
+      "url": "/sections/assignments"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Algorithms and Data Structures",
+              "url": "/search/?t=Algorithms%20and%20Data%20Structures"
+            },
+            {
+              "speciality": "Programming Languages",
+              "url": "/search/?t=Programming%20Languages"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "6.0001"
+  ],
+  "term": "Fall 2016",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

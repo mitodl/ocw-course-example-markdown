@@ -1,0 +1,69 @@
+{
+  "course_id": "6-00-introduction-to-computer-science-and-programming-fall-2008",
+  "course_title": "Introduction to Computer Science and Programming",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-00-introduction-to-computer-science-and-programming-fall-2008/83163b6f8bc2363872826866fb0e9bc8_6-00f08.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-00-introduction-to-computer-science-and-programming-fall-2008/53e629d5aa558a1b8caf7458df3287bd_6-00f08-th.jpg",
+  "course_image_alternate_text": "Four small images: a virus structure, a Roomba robot, a protein structure, and a word game.",
+  "course_image_caption_text": "<p>Many of the problem sets focus on specific topics, such as virus population dynamics, word games, protein sequences, or simulating the movement of a <a href=\"http://en.wikipedia.org/wiki/Roomba\">Roomba</a>. (Roomba photograph courtesy of <a href=\"http://www.flickr.com/photos/bunny/802123646/\">Stephanie Booth</a> on Flickr; virus image courtesy of the <a href=\"http://www.cdc.gov/std/hpv/stdfact-hpv-vaccine-hcp.htm\">CDC</a>; Boggle photograph courtesy of <a href=\"http://www.flickr.com/photos/angelinawb/258801158/\">Angelina</a> on Flickr; protein image courtesy of the <a href=\"https://www.lbl.gov/\">Lawrence Berkeley National Laboratory</a>.)</p> <p>&nbsp;</p>",
+  "publishdate": "2009-09-10T12:22:44-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Eric Grimson",
+      "url": "/search/?q=%22Prof.%20Eric%20Grimson%22"
+    },
+    {
+      "instructor": "Prof. John Guttag",
+      "url": "/search/?q=%22Prof.%20John%20Guttag%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Programming Languages",
+              "url": "/search/?t=Programming%20Languages"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "6.00"
+  ],
+  "term": "Fall 2008",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[6.00SC INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011) | SCHOLAR,  SPRING 2011"
+  ],
+  "open_learning_library_versions": []
+}

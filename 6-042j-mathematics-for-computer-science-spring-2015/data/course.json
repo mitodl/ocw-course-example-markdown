@@ -1,0 +1,95 @@
+{
+  "course_id": "6-042j-mathematics-for-computer-science-spring-2015",
+  "course_title": "Mathematics for Computer Science",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/bf5ded2292dd7af14f942dfa6ad4f96c_6-042js15.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/b07562f0da64c024954d8f111ed4641f_6-042js15-th.jpg",
+  "course_image_alternate_text": "6.042 course logo: 4 by 4 square with numbers in each square.",
+  "course_image_caption_text": "<p>6.042 serves as an introduction to discrete mathematics, probability, and mathematical thinking for computer scientists. (Image by OpenCourseWare, based on an image by Nick Matsakis.)</p>",
+  "publishdate": "2016-09-12T14:10:48-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Albert Meyer",
+      "url": "/search/?q=%22Prof.%20Albert%20Meyer%22"
+    },
+    {
+      "instructor": "Prof. Adam Chlipala",
+      "url": "/search/?q=%22Prof.%20Adam%20Chlipala%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    },
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/proofs/tp1-1"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-slides"
+    },
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/readings"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        },
+        {
+          "subtopic": "Probability and Statistics",
+          "specialities": [],
+          "url": "/search/?t=Probability%20and%20Statistics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "6.042J",
+    "18.062J"
+  ],
+  "term": "Spring 2015",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[6.042J MATHEMATICS FOR COMPUTER SCIENCE](/courses/6-042j-mathematics-for-computer-science-fall-2010) |  FALL 2010"
+  ],
+  "open_learning_library_versions": [
+    "[6.042J Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | OPEN LEARNING LIBRARY"
+  ]
+}

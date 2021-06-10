@@ -1,0 +1,55 @@
+{
+  "course_id": "res-tll-005-how-to-speak-january-iap-2018",
+  "course_title": "How to Speak",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-tll-005-how-to-speak-january-iap-2018/28205c50444b2ad0368682a733f1a36c_RES-TLL-005IAP18.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-tll-005-how-to-speak-january-iap-2018/b4c92502956331b86eeba15a1f4a51e4_RES-TLL-005IAP18-th.jpg",
+  "course_image_alternate_text": "Professor Winston in front of a chalkboard with writing on it.",
+  "course_image_caption_text": "<p>Professor Patrick H. Winston and excerpts from his <em>How to Speak</em> talk. (Image by Brett Paci. Photo by Azeddine Tahiri. Used with permission.)</p>",
+  "publishdate": "2019-12-20T19:19:37-05:00",
+  "instructors": [
+    {
+      "instructor": "Patrick Winston",
+      "url": "/search/?q=%22Patrick%20Winston%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/how-to-speak"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Teaching and Education",
+      "subtopics": [
+        {
+          "subtopic": "Curriculum and Teaching",
+          "specialities": [],
+          "url": "/search/?t=Curriculum%20and%20Teaching"
+        },
+        {
+          "subtopic": "Educational Technology",
+          "specialities": [],
+          "url": "/search/?t=Educational%20Technology"
+        }
+      ],
+      "url": "/search/?t=Teaching%20and%20Education"
+    }
+  ],
+  "course_numbers": [
+    "RES.TLL-005"
+  ],
+  "term": "January IAP 2018",
+  "level": {
+    "level": "Non Credit",
+    "url": "/search/?l=Non%20Credit"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

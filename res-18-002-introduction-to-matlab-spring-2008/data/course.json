@@ -1,0 +1,82 @@
+{
+  "course_id": "res-18-002-introduction-to-matlab-spring-2008",
+  "course_title": "Introduction to MATLAB",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-18-002-introduction-to-matlab-spring-2008/830547395aefdce81c5e4f16624d5c3b_res-18-002s08.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-18-002-introduction-to-matlab-spring-2008/e961bbc20206a77085b91bc54baee908_res-18-002s08-th.jpg",
+  "course_image_alternate_text": "A multi-colored 3 dimensional plot of a 2 dimensional sinc function.",
+  "course_image_caption_text": "<p>A 3D plot of a 2D sinc function. (Image by MIT OpenCourseWare.)</p>",
+  "publishdate": "2010-03-08T09:04:21-05:00",
+  "instructors": [
+    {
+      "instructor": "Joseph Farjoun",
+      "url": "/search/?q=%22Joseph%20Farjoun%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/other-matlab-resources-at-mit"
+    },
+    {
+      "feature": "Programming Assignments",
+      "url": "/sections/lecture-notes"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Programming Languages",
+              "url": "/search/?t=Programming%20Languages"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        },
+        {
+          "subtopic": "Systems Engineering",
+          "specialities": [
+            {
+              "speciality": "Computational Modeling and Simulation",
+              "url": "/search/?t=Computational%20Modeling%20and%20Simulation"
+            }
+          ],
+          "url": "/search/?t=Systems%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "RES.18-002"
+  ],
+  "term": "Spring 2008",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [
+    "[18.S997 INTRODUCTION TO MATLAB PROGRAMMING](/courses/18-s997-introduction-to-matlab-programming-fall-2011) |  FALL 2011"
+  ],
+  "open_learning_library_versions": []
+}

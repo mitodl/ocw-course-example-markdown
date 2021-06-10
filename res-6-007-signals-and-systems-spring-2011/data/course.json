@@ -1,0 +1,77 @@
+{
+  "course_id": "res-6-007-signals-and-systems-spring-2011",
+  "course_title": "Signals and Systems",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/a31f0415c6d6d937cc662b4ed8cbbfe4_res-6-007s11.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/ae2b293db02584af37cddcc66341417a_res-6-007s11-th.jpg",
+  "course_image_alternate_text": "Diagram illustrating upsampling.",
+  "course_image_caption_text": "<p>Time-domain illustration of upsampling from Lec #19. (Image courtesy of Professor Alan Oppenheim. Used with permission.)</p>",
+  "publishdate": "2011-06-06T09:35:04-04:00",
+  "instructors": [
+    {
+      "instructor": "Alan Oppenheim",
+      "url": "/search/?q=%22Alan%20Oppenheim%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-lectures"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Electrical Engineering",
+          "specialities": [
+            {
+              "speciality": "Signal Processing",
+              "url": "/search/?t=Signal%20Processing"
+            },
+            {
+              "speciality": "Digital Systems",
+              "url": "/search/?t=Digital%20Systems"
+            }
+          ],
+          "url": "/search/?t=Electrical%20Engineering"
+        },
+        {
+          "subtopic": "Systems Engineering",
+          "specialities": [
+            {
+              "speciality": "Computational Modeling and Simulation",
+              "url": "/search/?t=Computational%20Modeling%20and%20Simulation"
+            }
+          ],
+          "url": "/search/?t=Systems%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "RES.6-007"
+  ],
+  "term": "Spring 2011",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

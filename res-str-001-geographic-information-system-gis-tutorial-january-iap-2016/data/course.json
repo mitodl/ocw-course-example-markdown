@@ -1,0 +1,50 @@
+{
+  "course_id": "res-str-001-geographic-information-system-gis-tutorial-january-iap-2016",
+  "course_title": "Geographic Information System (GIS) Tutorial",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/9baf99f8ba6f704544d402380ff954e4_res-str-001iap16.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/465756c723f415a4d346952796d589d4_res-str-001iap16-th.jpg",
+  "course_image_alternate_text": "A brightly colored image of virtually-generated buildings and streets.",
+  "course_image_caption_text": "<p>A map of Manhattan generated using GIS data. (Jennie Murack, MIT Geospatial Data Librarian.)</p>",
+  "publishdate": "2016-03-28T21:35:22-04:00",
+  "instructors": [
+    {
+      "instructor": "MIT GIS Services Group ",
+      "url": "/search/?q=%22MIT%20GIS%20Services%20Group%20%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Programming Assignments",
+      "url": "/sections/introduction-to-gis"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Social Science",
+      "subtopics": [
+        {
+          "subtopic": "Geography",
+          "specialities": [],
+          "url": "/search/?t=Geography"
+        }
+      ],
+      "url": "/search/?t=Social%20Science"
+    }
+  ],
+  "course_numbers": [
+    "RES.STR-001"
+  ],
+  "term": "January IAP 2016",
+  "level": {
+    "level": "Non Credit",
+    "url": "/search/?l=Non%20Credit"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

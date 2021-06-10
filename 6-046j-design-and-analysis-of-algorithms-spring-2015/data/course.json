@@ -1,0 +1,103 @@
+{
+  "course_id": "6-046j-design-and-analysis-of-algorithms-spring-2015",
+  "course_title": "Design and Analysis of Algorithms",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/6afddb714577eef8db0746c89641b178_6-046js15.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/c556fb05d3d917af1de8d68e6dd73c38_6-046js15-th.jpg",
+  "course_image_alternate_text": "A picture of a blue frisbee with a four node graph printed on it.",
+  "course_image_caption_text": "<p>Frisbees&reg; featuring a flow network were tossed out during lectures to reward class participation. (Photo courtesy of Prof. Devadas)</p>",
+  "publishdate": "2016-03-04T17:07:15-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Srini Devadas",
+      "url": "/search/?q=%22Prof.%20Srini%20Devadas%22"
+    },
+    {
+      "instructor": "Prof. Erik Demaine",
+      "url": "/search/?q=%22Prof.%20Erik%20Demaine%22"
+    },
+    {
+      "instructor": "Prof. Nancy Lynch",
+      "url": "/search/?q=%22Prof.%20Nancy%20Lynch%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Electrical Engineering and Computer Science",
+      "url": "/search/?d=Electrical%20Engineering%20and%20Computer%20Science"
+    },
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/lecture-videos"
+    },
+    {
+      "feature": "Recitation Videos",
+      "url": "/sections/recitation-videos"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/lecture-notes"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Algorithms and Data Structures",
+              "url": "/search/?t=Algorithms%20and%20Data%20Structures"
+            },
+            {
+              "speciality": "Computer Networks",
+              "url": "/search/?t=Computer%20Networks"
+            },
+            {
+              "speciality": "Cryptography",
+              "url": "/search/?t=Cryptography"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "6.046J",
+    "18.410J"
+  ],
+  "term": "Spring 2015",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

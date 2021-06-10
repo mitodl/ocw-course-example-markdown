@@ -1,0 +1,24 @@
+---
+uid: 8a92070b71b9513e35b1c9854c1ef91c
+title: '9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)'
+course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
+parent_title: '9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)'
+---
+
+*   [<Video 1: The Problem]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-1-the-problem)
+*   [9.4.1Welcome to Recitation 9]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation)
+*   [9.4.2Video 1: The Problem]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-1-the-problem)
+*   [9.4.3Video 2: An Optimization Model]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-2-an-optimization-model)
+*   [9.4.4Video 3: Solving the Problem]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5)
+*   [9.4.5Video 4: The Solution]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution)
+*   [\>Video 3: Solving the Problem]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5)
+
+Video 2: An Optimization Model
+------------------------------
+
+{{< youtube J9-3p_J9o2Y >}}
+
+*   [BackVideo 1: The Problem]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-1-the-problem)
+*   [ContinueVideo 3: Solving the Problem]({{< baseurl >}}/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5)

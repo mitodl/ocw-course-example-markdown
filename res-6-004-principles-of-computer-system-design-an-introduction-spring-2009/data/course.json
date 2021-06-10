@@ -1,0 +1,73 @@
+{
+  "course_id": "res-6-004-principles-of-computer-system-design-an-introduction-spring-2009",
+  "course_title": "Principles of Computer System Design: An Introduction",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/a98672e07c9cbdc4a7156aa0319738a9_res-6-004s09.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/a351075e24f3110356a2c266c51764ce_res-6-004s09-th.jpg",
+  "course_image_alternate_text": "Book cover of Principles of Computer System Design, Part I.",
+  "course_image_caption_text": "<p>Cover of <em>Principles of Computer System Design: An Introduction</em>. (Image courtesy of Morgan Kaufman/Elsevier. Used with permission.)</p>",
+  "publishdate": "2010-03-08T09:06:14-05:00",
+  "instructors": [
+    {
+      "instructor": "Jerome Saltzer",
+      "url": "/search/?q=%22Jerome%20Saltzer%22"
+    },
+    {
+      "instructor": "M. Kaashoek",
+      "url": "/search/?q=%22M.%20Kaashoek%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Online Textbook",
+      "url": "/sections/online-textbook"
+    },
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/online-textbook"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Computer Design and Engineering",
+              "url": "/search/?t=Computer%20Design%20and%20Engineering"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        },
+        {
+          "subtopic": "Systems Engineering",
+          "specialities": [
+            {
+              "speciality": "Systems Design",
+              "url": "/search/?t=Systems%20Design"
+            }
+          ],
+          "url": "/search/?t=Systems%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "RES.6-004"
+  ],
+  "term": "Spring 2009",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

@@ -1,0 +1,80 @@
+{
+  "course_id": "res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015",
+  "course_title": "Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/dca2d57b2aa2ae39adce6305c70f0ce1_res-18-009f15.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/5c30ae9bcc829583c74a7a546040709c_res-18-009f15-th.jpg",
+  "course_image_alternate_text": "A colorful sphere inside a 3-dimensional grid.",
+  "course_image_caption_text": "<p>Screenshot from the video <a href=\"./resolveuid/9605f7f536596cdac73fc74f9e6554a4\"><em>Tumbling Box</em></a>. (Image by The MathWorks.)</p>",
+  "publishdate": "2016-05-06T15:54:44-04:00",
+  "instructors": [
+    {
+      "instructor": "Gilbert Strang",
+      "url": "/search/?q=%22Gilbert%20Strang%22"
+    },
+    {
+      "instructor": "Cleve Moler",
+      "url": "/search/?q=%22Cleve%20Moler%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Supplemental Resources",
+      "url": "/search/?d=Supplemental%20Resources"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/video-series-overview"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Computer Science",
+          "specialities": [
+            {
+              "speciality": "Programming Languages",
+              "url": "/search/?t=Programming%20Languages"
+            }
+          ],
+          "url": "/search/?t=Computer%20Science"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    },
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Applied Mathematics",
+          "specialities": [],
+          "url": "/search/?t=Applied%20Mathematics"
+        },
+        {
+          "subtopic": "Differential Equations",
+          "specialities": [],
+          "url": "/search/?t=Differential%20Equations"
+        },
+        {
+          "subtopic": "Linear Algebra",
+          "specialities": [],
+          "url": "/search/?t=Linear%20Algebra"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "RES.18-009"
+  ],
+  "term": "Fall 2015",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

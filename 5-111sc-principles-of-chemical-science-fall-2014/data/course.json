@@ -1,0 +1,79 @@
+{
+  "course_id": "5-111sc-principles-of-chemical-science-fall-2014",
+  "course_title": "Principles of Chemical Science",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e455c4a2c7e0b4beed975963f7defda_5-111scf14-th.jpg",
+  "course_image_alternate_text": "Photograph of Professor Drennan and abstract drawings of chemical formulas and symbols.",
+  "course_image_caption_text": "<p>The WHO, the WHAT, and the WHY of chemistry. (Adapted from a figure by Mary O'Reilly. O'Reilly Science Art, LLC. Photograph by James Kegley.)</p>",
+  "publishdate": "2017-08-03T16:48:55-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Catherine Drennan",
+      "url": "/search/?q=%22Prof.%20Catherine%20Drennan%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Chemistry",
+      "url": "/search/?d=Chemistry"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/unit-i-the-atom/lecture-1"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/unit-i-the-atom"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/unit-i-the-atom"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Other Video",
+      "url": "/sections/unit-i-the-atom"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Chemistry",
+          "specialities": [
+            {
+              "speciality": "Inorganic Chemistry",
+              "url": "/search/?t=Inorganic%20Chemistry"
+            },
+            {
+              "speciality": "Organic Chemistry",
+              "url": "/search/?t=Organic%20Chemistry"
+            },
+            {
+              "speciality": "Physical Chemistry",
+              "url": "/search/?t=Physical%20Chemistry"
+            }
+          ],
+          "url": "/search/?t=Chemistry"
+        }
+      ],
+      "url": "/search/?t=Science"
+    }
+  ],
+  "course_numbers": [
+    "5.111SC"
+  ],
+  "term": "Fall 2014",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

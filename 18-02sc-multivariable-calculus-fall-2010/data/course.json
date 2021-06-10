@@ -1,0 +1,76 @@
+{
+  "course_id": "18-02sc-multivariable-calculus-fall-2010",
+  "course_title": "Multivariable Calculus",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/98f7f76b373d20b5c3f849016d8ff5a1_18-02scf10.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/912bb291e7f3e8c701065c6647495376_18-02scf10-th.jpg",
+  "course_image_alternate_text": "Graph of an eighth of a sphere.",
+  "course_image_caption_text": "<p>Directional derivatives for functions of two variables. (Image courtesy of John B. Lewis.)</p>",
+  "publishdate": "2010-12-20T11:04:13-05:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Denis Auroux",
+      "url": "/search/?q=%22Prof.%20Denis%20Auroux%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Mathematics",
+      "url": "/search/?d=Mathematics"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Simulations",
+      "url": "/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs"
+    },
+    {
+      "feature": "Exams with Solutions",
+      "url": "/sections/1.-vectors-and-matrices/exam-1/exam"
+    },
+    {
+      "feature": "Problem Sets with Solutions",
+      "url": "/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors"
+    },
+    {
+      "feature": "Lecture Notes",
+      "url": "/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Mathematics",
+      "subtopics": [
+        {
+          "subtopic": "Calculus",
+          "specialities": [],
+          "url": "/search/?t=Calculus"
+        },
+        {
+          "subtopic": "Linear Algebra",
+          "specialities": [],
+          "url": "/search/?t=Linear%20Algebra"
+        },
+        {
+          "subtopic": "Differential Equations",
+          "specialities": [],
+          "url": "/search/?t=Differential%20Equations"
+        }
+      ],
+      "url": "/search/?t=Mathematics"
+    }
+  ],
+  "course_numbers": [
+    "18.02SC"
+  ],
+  "term": "Fall 2010",
+  "level": {
+    "level": "Undergraduate",
+    "url": "/search/?l=Undergraduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}

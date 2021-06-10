@@ -1,0 +1,94 @@
+{
+  "course_id": "8-591j-systems-biology-fall-2014",
+  "course_title": "Systems Biology",
+  "course_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg",
+  "course_thumbnail_image_url": "https://open-learning-course-data-production.s3.amazonaws.com/8-591j-systems-biology-fall-2014/56a6730f20aa1be188fac289b0a92dbe_8-591jf14-th.jpg",
+  "course_image_alternate_text": "A neutrophil, shown as a large irregularly-shaped blue-gray cell, wrapping around pink oval-shaped Klebsiella pneumoniae bacteria.",
+  "course_image_caption_text": "<p>A neutrophil (a type of white blood cell, shown in blue-gray) interacting with <em>Klebsiella pneumoniae</em> bacteria (shown in pink). This is one example of the types of functions that Systems Biology seeks to understand and describe. Watch <a href=\"./resolveuid/2d56d1e569c77968d0077c6c6f1d4ffc\">Lecture 1</a> to see a video of a neutrophil chasing and engulfing a bacterium. (Image by <a href=\"https://www.flickr.com/photos/54591706@N02/13743456084/\">NIAID</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC-BY</a>.)</p><p>&nbsp;</p>",
+  "publishdate": "2015-07-27T16:48:39-04:00",
+  "instructors": [
+    {
+      "instructor": "Prof. Jeff Gore",
+      "url": "/search/?q=%22Prof.%20Jeff%20Gore%22"
+    }
+  ],
+  "departments": [
+    {
+      "department": "Physics",
+      "url": "/search/?d=Physics"
+    },
+    {
+      "department": "Biology",
+      "url": "/search/?d=Biology"
+    }
+  ],
+  "course_features": [
+    {
+      "feature": "Problem Sets",
+      "url": "/sections/assignments"
+    },
+    {
+      "feature": "Exams",
+      "url": "/sections/exams"
+    },
+    {
+      "feature": "Lecture Videos",
+      "url": "/sections/lecture-videos"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Science",
+      "subtopics": [
+        {
+          "subtopic": "Physics",
+          "specialities": [],
+          "url": "/search/?t=Physics"
+        },
+        {
+          "subtopic": "Biology",
+          "specialities": [
+            {
+              "speciality": "Computation and Systems Biology",
+              "url": "/search/?t=Computation%20and%20Systems%20Biology"
+            },
+            {
+              "speciality": "Cell Biology",
+              "url": "/search/?t=Cell%20Biology"
+            }
+          ],
+          "url": "/search/?t=Biology"
+        }
+      ],
+      "url": "/search/?t=Science"
+    },
+    {
+      "topic": "Engineering",
+      "subtopics": [
+        {
+          "subtopic": "Biological Engineering",
+          "specialities": [
+            {
+              "speciality": "Synthetic Biology",
+              "url": "/search/?t=Synthetic%20Biology"
+            }
+          ],
+          "url": "/search/?t=Biological%20Engineering"
+        }
+      ],
+      "url": "/search/?t=Engineering"
+    }
+  ],
+  "course_numbers": [
+    "8.591J",
+    "7.81J",
+    "7.32"
+  ],
+  "term": "Fall 2014",
+  "level": {
+    "level": "Graduate",
+    "url": "/search/?l=Graduate"
+  },
+  "other_versions": [],
+  "open_learning_library_versions": []
+}
